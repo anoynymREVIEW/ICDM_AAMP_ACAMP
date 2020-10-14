@@ -4,9 +4,8 @@
 % To run this code, you need to download the dataset from link : 
 % https://drive.google.com/drive/folders/10WHOK5qEaUiZREW5Tf9dReRJoAua4dMy
 
-% Author information omitted for ICDM review.
 % For details of the code, see:
-% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDM 2020.
+% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDE 2020.
 
 clear
 close all

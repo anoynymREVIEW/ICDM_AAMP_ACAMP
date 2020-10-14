@@ -1,8 +1,8 @@
 % Compute the change in comutational time with the increase of time series
 % length i.e. n
-% Author information omitted for ICDM review.
+
 % For details of the code, see:
-% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDM 2020.
+% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDE 2020.
 
 clear
 clc

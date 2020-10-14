@@ -1,7 +1,6 @@
 % Compute the self similarity join of time series
-% Author information omitted for ICDM review.
 % For details of the AAMP_Optimized algorithm, see:
-% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDM 2020.
+% "Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances", submitted to ICDE 2020.
 % Usage:
 % [mindist, minind] = AAMP_Optimized(X, m)
 % Output:
